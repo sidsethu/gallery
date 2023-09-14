@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "© by www.instagram.com/sidsethu",
+  "footer": "<a href=\"https://www.instagram.com/sidsethu\">© by sidsethu</a>",
   "usage-stats": false
 }
